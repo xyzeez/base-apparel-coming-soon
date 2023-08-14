@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL here](#)
+- Solution URL: [URL here](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-bem-purecss-js-MolKKBLP8-)
 - Live Site URL: [URL here](https://base-apparel-coming-soon-femc.netlify.app/)
 
 ## My process
