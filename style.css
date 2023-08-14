@@ -265,6 +265,12 @@
 
   @media screen and (min-width: 900px) {
 
+    body {
+      background-image: url(./images/bg-pattern-desktop.svg), var(--background_gradient);
+      background-size: 60% 100%;
+      background-repeat: no-repeat;
+    }
+
     .header {
       position: absolute;
       align-self: start;
